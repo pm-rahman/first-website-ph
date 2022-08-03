@@ -1,0 +1,31 @@
+
+.slider {
+    margin-top: 37px;
+    background-color: #feeae9;
+    padding: 57px;
+    border-radius: 20px;
+}
+
+.carousel-item p {
+    margin-bottom: 3px;
+}
+.carousel-item h1 {
+    font-size: 36px;
+    color: #f30c34;
+}
+.coursal-btn {
+    display: inline-block;
+    border-radius: 4px;
+    border: none;
+    color: aliceblue;
+    background-color: #f30c34;
+    transition: .4s ease-in-out;
+    font-size: 12px;
+    padding: 7px 15px;
+}
+.coursal-btn:hover{
+    background-color: #a60621;
+}
+.carousel-item img {
+    height: 300px;
+}
